@@ -37,7 +37,7 @@ const Navbar = () => {
       <Link href="/">
   
           <Image
-            className=" flex items-center cursor-pointer h-12 w-[80px] justify-center"
+            className=" flex items-center cursor-pointer h-10 w-[80px] justify-center"
             src={Logo1}
             alt="logo"
             width={2800}
